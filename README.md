@@ -4,4 +4,3 @@
 ## [Лабораторная работа №3](https://github.com/mda-les13/MM_Lab3)
 ## [Лабораторная работа №4](https://github.com/mda-les13/MM_Lab4)
 ## [Лабораторная работа №5](https://github.com/mda-les13/MM_Lab5)
-## [Лабораторная работа №6](https://github.com/mda-les13/MM_Lab6)
